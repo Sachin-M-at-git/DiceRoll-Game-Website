@@ -76,7 +76,7 @@ p {
     }
     .container {
         width: fit-content;
-        grid-template-rows: 0.5fr 0.5fr 1fr 0.3fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr;
     }
 
